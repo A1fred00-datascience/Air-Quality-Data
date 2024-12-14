@@ -36,8 +36,6 @@ The dataset used in this project contains the following key columns:
 - `arithmetic_mean`: Average concentration of the pollutant
 - `aqi`: Air Quality Index, which is the target variable for prediction
 
-**File:** `epa_air_quality.csv`
-
 ---
 
 # Data Preprocessing
